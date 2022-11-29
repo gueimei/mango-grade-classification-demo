@@ -1,5 +1,5 @@
-# mango-grade-classification-demo
-## environment
+# Mango-grade-classification-demo
+## Environment
 ```
 python :     3.7.6
 tensorflow : 1.14.0
@@ -18,15 +18,18 @@ pip uninstall protobuf
 pip install protobuf==3.20.*
 pip install opencv-python==4.5.1.48
 ```
-### model
+### Model
 | Model Name           | Download Link    |
 | -------------------- | ---------------  |
 | SPP_AlexNet          | [GoogleDrive](https://drive.google.com/drive/folders/1AoRSJfHSf889OiMLc-HR2lSibynYODIG?usp=sharing)|
 | shapes20200813T1158  | [GoogleDrive](https://drive.google.com/drive/folders/172CdJBEgfRXXKFbxkFHxNMQHs85ijNQR?usp=sharing)|
 
-## excute
-1. download the "SPP_AlexNet" and "shapes20200813T1158" models and place them to "logs" folder
+## Excute
+1. Download the "SPP_AlexNet" and "shapes20200813T1158" models and place them to "logs" folder
 2. Open Spyder
 3. Excute "Mango_sys.py"
-4. click "choose file" and choose test image folder
-5. click "check", detect the mango grade and generate a txt to record result
+4. Click "choose file" and choose test image folder
+5. Click "check", detect the mango grade and generate a txt to record result
+
+### Demo
+[![IMAGE ALT TEXT](https://www.youtube.com/watch?v=g52fmQ8ifak&ab_channel=%E6%A2%85)
