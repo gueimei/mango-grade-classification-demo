@@ -21,7 +21,7 @@ pip install opencv-python==4.5.1.48
 ### Model
 | Model Name           | Download Link    |
 |:--------------------:| ---------------  |
-| SPP_AlexNet          | [GoogleDrive](https://drive.google.com/drive/folders/1AoRSJfHSf889OiMLc-HR2lSibynYODIG?usp=sharing)|[Link](http://ncyusclab.synology.me/model/)|
+| SPP_AlexNet          | [GoogleDrive](https://drive.google.com/drive/folders/1AoRSJfHSf889OiMLc-HR2lSibynYODIG?usp=sharing) [Link](http://ncyusclab.synology.me/model/)|
 | shapes20200813T1158  | [GoogleDrive](https://drive.google.com/drive/folders/172CdJBEgfRXXKFbxkFHxNMQHs85ijNQR?usp=sharing)|
 
 ## Excute
