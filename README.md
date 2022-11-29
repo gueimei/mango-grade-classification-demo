@@ -19,8 +19,9 @@ pip install protobuf==3.20.*
 pip install opencv-python==4.5.1.48
 ```
 ### Model
-| Model Name           | Download Link    |
-|:--------------------:| ---------------  |
+`Please use Right-click and save link as a file`
+| Model Name           | Download Link     |
+|:--------------------:| :---------------: |
 | SPP_AlexNet          | [Link](http://ncyusclab.synology.me/mango/model/SPP_AlexNet.zip)|
 | shapes20200813T1158  | [Link](http://ncyusclab.synology.me/mango/model/shapes20200813T1158.zip)|
 
