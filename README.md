@@ -32,4 +32,4 @@ pip install opencv-python==4.5.1.48
 5. Click "check", detect the mango grade and generate a txt to record result
 
 ### Demo
-[![IMAGE ALT TEXT](https://www.youtube.com/watch?v=g52fmQ8ifak&ab_channel=%E6%A2%85)
+[![IMAGE ALT TEXT](https://www.youtube.com/watch?v=g52fmQ8ifak&ab_channel=%E6%A2%85)]
