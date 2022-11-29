@@ -21,8 +21,8 @@ pip install opencv-python==4.5.1.48
 ### Model
 | Model Name           | Download Link    |
 |:--------------------:| ---------------  |
-| SPP_AlexNet          | [GoogleDrive](https://drive.google.com/drive/folders/1AoRSJfHSf889OiMLc-HR2lSibynYODIG?usp=sharing) [Link](http://ncyusclab.synology.me/mango/model/)|
-| shapes20200813T1158  | [GoogleDrive](https://drive.google.com/drive/folders/172CdJBEgfRXXKFbxkFHxNMQHs85ijNQR?usp=sharing)|
+| SPP_AlexNet          | [Link](http://ncyusclab.synology.me/mango/model/SPP_AlexNet.zip)|
+| shapes20200813T1158  | [Link](http://ncyusclab.synology.me/mango/model/shapes20200813T1158.zip)|
 
 ## Excute
 1. Download the "SPP_AlexNet" and "shapes20200813T1158" models and place them to "logs" folder
